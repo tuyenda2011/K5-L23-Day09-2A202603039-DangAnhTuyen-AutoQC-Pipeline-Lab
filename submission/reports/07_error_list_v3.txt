@@ -1,0 +1,84 @@
+# Danh sách lỗi — SAU người duyệt (v3)
+ảnh đã quét: 193
+
+label_format -> 10 dòng
+missing_labels -> 3 dòng
+second_opinion -> 53 dòng
+
+[WARN ] BOX_HUGE             img_0018.txt:1  diện tích box vượt ngưỡng
+[WARN ] BOX_HUGE             img_0128.txt:1  diện tích box vượt ngưỡng
+[WARN ] BOX_HUGE             img_0196.txt:1  diện tích box vượt ngưỡng
+[WARN ] BOX_TINY             img_0026.txt:6  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0051.txt:5  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0069.txt:2  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0161.txt:2  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0161.txt:3  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0161.txt:4  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0183.txt:11  cạnh ngắn của box dưới ngưỡng
+[WARN ] EMPTY_LABEL          img_0097  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0129  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0192  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] POSSIBLE_FALSE_POS   img_0014.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0022.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0035.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0068.txt:8  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0069.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0075.txt:6  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0091.txt:7  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0093.txt:3  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0095.txt:6  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0111.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0124.txt:8  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0131.txt:11  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0134.txt:5  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0149.txt:3  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0150.txt:3  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0180.txt:5  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0189.txt:4  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0191.txt:1  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0206.txt:1  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0212.txt:4  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_LOOSE_BOX   img_0015  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0018  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0036  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0045  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0046  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0054  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0058  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0064  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0077  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0082  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0090  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0099  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0119  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0125  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0142  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0175  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0200  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0212  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_MISSING     img_0032  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0062  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0121  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0126  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0135  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0159  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0183  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0199  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_WRONG_CLASS img_0078  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0083  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0220  Box khớp vị trí nhưng khác lớp với model
+
+## Tổng hợp theo mã
+warn  BOX_HUGE               3
+warn  BOX_TINY               7
+warn  EMPTY_LABEL            3
+warn  POSSIBLE_FALSE_POS     20
+warn  POSSIBLE_LOOSE_BOX     18
+warn  POSSIBLE_MISSING       12
+warn  POSSIBLE_WRONG_CLASS   3
+
+Kết luận: HOLD — 34/193 ảnh còn cảnh báo (17.6166%), đạt hoặc vượt ngưỡng 10.0000%.

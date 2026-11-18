@@ -1,0 +1,167 @@
+# Danh sách lỗi — SAU sửa tự động (v2)
+ảnh đã quét: 193
+
+label_format -> 10 dòng
+missing_labels -> 20 dòng
+second_opinion -> 120 dòng
+
+[ERROR] MISSING_LABEL_FILE   img_0031  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0053  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0126  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0135  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0170  ảnh không có file nhãn
+[ERROR] MISSING_LABEL_FILE   img_0219  ảnh không có file nhãn
+[WARN ] BOX_HUGE             img_0018.txt:1  diện tích box vượt ngưỡng
+[WARN ] BOX_HUGE             img_0128.txt:1  diện tích box vượt ngưỡng
+[WARN ] BOX_HUGE             img_0196.txt:1  diện tích box vượt ngưỡng
+[WARN ] BOX_TINY             img_0026.txt:6  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0030.txt:9  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0051.txt:5  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0069.txt:2  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0161.txt:2  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0161.txt:3  cạnh ngắn của box dưới ngưỡng
+[WARN ] BOX_TINY             img_0161.txt:4  cạnh ngắn của box dưới ngưỡng
+[WARN ] EMPTY_LABEL          img_0004  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0050  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0057  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0065  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0097  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0103  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0104  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0129  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0147  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0157  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0178  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0184  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0192  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] EMPTY_LABEL          img_0194  file nhãn rỗng: ảnh nền hay thiếu nhãn?
+[WARN ] POSSIBLE_FALSE_POS   img_0024.txt:7  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0030.txt:9  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0035.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0068.txt:7  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0069.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0070.txt:6  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0078.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0091.txt:7  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0092.txt:9  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0095.txt:6  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0099.txt:14  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0100.txt:4  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0111.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0144.txt:1  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0149.txt:3  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0150.txt:3  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0155.txt:2  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0155.txt:3  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0180.txt:5  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0189.txt:4  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0193.txt:6  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0204.txt:1  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_FALSE_POS   img_0206.txt:1  Box nhãn không khớp dự đoán nào
+[WARN ] POSSIBLE_LOOSE_BOX   img_0015  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0018  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0036  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0045  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0046  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0054  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0062  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0062  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0064  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0077  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0082  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0090  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0094  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0096  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0119  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0125  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0127  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0127  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0131  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0142  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0171  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0171  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0175  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0179  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0200  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0217  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_LOOSE_BOX   img_0217  Box cùng lớp có IoU thấp
+[WARN ] POSSIBLE_MISSING     img_0001  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0004  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0004  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0012  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0014  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0020  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0022  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0028  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0030  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0032  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0047  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0050  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0057  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0058  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0065  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0066  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0067  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0068  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0078  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0086  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0092  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0093  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0096  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0099  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0100  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0103  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0104  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0116  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0117  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0121  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0127  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0131  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0134  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0144  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0145  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0147  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0151  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0157  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0159  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0160  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0164  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0165  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0178  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0184  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0187  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0194  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0199  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0204  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0210  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0211  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0215  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0218  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_MISSING     img_0220  Model thấy vật nhưng không có box nhãn khớp
+[WARN ] POSSIBLE_WRONG_CLASS img_0019  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0020  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0034  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0037  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0070  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0071  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0075  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0083  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0112  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0124  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0160  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0183  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0185  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0191  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0202  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0208  Box khớp vị trí nhưng khác lớp với model
+[WARN ] POSSIBLE_WRONG_CLASS img_0212  Box khớp vị trí nhưng khác lớp với model
+
+## Tổng hợp theo mã
+error MISSING_LABEL_FILE     6
+warn  BOX_HUGE               3
+warn  BOX_TINY               7
+warn  EMPTY_LABEL            14
+warn  POSSIBLE_FALSE_POS     23
+warn  POSSIBLE_LOOSE_BOX     27
+warn  POSSIBLE_MISSING       53
+warn  POSSIBLE_WRONG_CLASS   17
